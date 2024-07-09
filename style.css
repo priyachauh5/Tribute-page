@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(223, 249, 254);
+}
+.head{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
+.name{
+    font-size: xx-large;
+    margin: 20px 10px 0 50px;
+}
+.about{
+    margin: 5vh 18vh 0 18vh;
+}
+img{
+    border-radius: 5%;
+}
+li{
+    font-size: 25px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    margin: 10vh 18vh 10vh 18vh;
+}
+#firstImg{
+    margin: 100px 10px 0 50px;
+}
+.award{
+    margin: 80px 10px 0 50px;
+}
+p{
+    font-size: large;
+    font-weight: 800;
+    margin-left: 80vh;
+}
+
